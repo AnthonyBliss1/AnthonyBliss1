@@ -1,4 +1,4 @@
-# Tony Bliss - Backend Developement
+# Tony Bliss - Backend Development
 
 ---
 
@@ -33,15 +33,21 @@ AWS Solutions Architect - Associate · AWS Cloud Practitioner · Tableau Desktop
 - Application UI built with Raylib
 - **Languages and Tech:** Go · FFMPEG · Pipewire · Raylib-Go
 
-**Landmark Show Times (Active)**
-- Reverse engineered Landmark Movie Theater API to collect Pasadena showtimes
-- Implemented a FastAPI layer to serve as the bridge between the collected data and application
-- Application UI built with Raylib-go
-- **Languages and Tech:** Go · Python · FastAPI · Docker · PostgreSQL · Raylib-Go
+**Picto**
+- Collaborative doodling application utilizing WebSockets
+- Join or create Picto rooms - available to users on the same local network
+- Room discovery facilitated by MDNS
+- **Languages and Tech:** Go · Typescript · Svelte · Wails
 
-**Merchant.io (Active)**
+**Scoop (Active)**
+- REST API client for testing and discovery
+- Includes local storage and DNS Overrides
+- Optional Sync Server for synchronizing data across devices
+- **Languages and Tech:** Go · Typescript · Svelte · Wails
+
+**Marza.io (Active)**
 - Square desktop application to help manage inventory and sales
-- Integration with SquareSpace and aggreagate sales across platforms
-- Multi-platform business bashboard
+- Integration with SquareSpace and aggregate sales across platforms
+- Multi-platform business dashboard
 - Create / manage digital marketing campaigns with Twilio
-- **Languages and Tech:** Go · Typescript · Wails · Sqlite
+- **Languages and Tech:** Go · Typescript · Svelte · Wails · Sqlite
