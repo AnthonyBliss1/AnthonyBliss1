@@ -37,7 +37,7 @@ AWS Solutions Architect - Associate · AWS Cloud Practitioner · Tableau Desktop
 - Room discovery facilitated by MDNS
 - **Languages and Tech:** Go · Typescript · Svelte · Wails
 
-**Scoop (Active)**
+**Scoop**
 - REST API client for testing and discovery
 - Includes local storage and DNS Overrides
 - Optional Sync Server for synchronizing data across devices
